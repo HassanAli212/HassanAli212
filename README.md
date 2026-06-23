@@ -23,7 +23,7 @@ My approach is practical: I build complete products end-to-end — frontend, bac
 
 - 🎓 BS Computer Science, Lahore Garrison University (2026)
 - 💼 Frontend & Backend Developer Intern @ SkillifyZone
-- 🏆 Top 7 Final Year Project — IoT-Enabled Electricity Monitoring Module
+- 🏆 Top 5 Final Year Project — IoT-Enabled Electricity Monitoring Module
 - 🌱 Currently learning: LLM APIs, RAG pipelines, AI agents & function calling
 - 💬 Ask me about: MERN stack, React Native, Firebase, IoT integration, Gemini/Claude API integration
 
