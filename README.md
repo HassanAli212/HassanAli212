@@ -192,6 +192,7 @@ Full-featured e-commerce application with product management, cart, secure authe
 - Responsive UI
 - Full deployment pipeline
 
+</details>
 
 <details>
 <summary><b>🌤️ Weather App — Flask-Based Weather Dashboard</b></summary>
