@@ -25,11 +25,11 @@
 </a>
 
 <a href="mailto:ahsanhome212@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-ahsanhome212@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/HassanAli212">
-<img src="https://img.shields.io/badge/GitHub-HassanAli212-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -191,6 +191,31 @@ Full-featured e-commerce application with product management, cart, secure authe
 - Secure authentication
 - Responsive UI
 - Full deployment pipeline
+
+
+<details>
+<summary><b>🌤️ Weather App — Flask-Based Weather Dashboard</b></summary>
+
+### Overview
+
+A simple web-based weather application built with Flask that shows current weather conditions and a 5-day forecast for any city using the OpenWeatherMap API.
+
+| Category | Details |
+|-----------|---------|
+| Stack | Python, Flask, HTML, CSS, JavaScript |
+| API | OpenWeatherMap |
+| Features | Current weather + 5-day forecast |
+| Units | Metric & Imperial toggle |
+| Repository | [github.com/HassanAli212/weather-app](https://github.com/HassanAli212/weather-app) |
+
+### Engineering Highlights
+
+- Search weather by any city name
+- Current temperature, feels-like, humidity, pressure, wind speed
+- Weather description with icons
+- Sunrise and sunset times
+- 5-day forecast with daily grouping
+- Switch between metric and imperial units
 
 </details>
 
